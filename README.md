@@ -9,3 +9,5 @@ This folder contains the coopLearn Template.
 4. Commit your changes to version control: git commit -m "your comment message here"
 5. push your local repository to GitHub: git push origin master
 6. Submit yoru project to blackboard for peer-review by your peers.
+
+Done!
